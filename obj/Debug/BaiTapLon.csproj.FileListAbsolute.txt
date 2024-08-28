@@ -1,0 +1,81 @@
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Form1.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormHocSinh.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormLop.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormDiem.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormGiaoVien.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Forms.FormBan.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Forms.TimKiem.FormTimKiemHocSinh.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.csproj.ResolveComReference.cache
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Forms.Authenticator.Login.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Forms.Authenticator.Registration.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BaiTapLon\obj\Debug\BaiTapLon.Forms.Authenticator.FormQuenMatKhau.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.TimKiem.FormTimKiemGiaoVien.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.ThaoTac.FormTongHopHocSinhTheoLop.resources
+C:\Users\HP\Máy tính\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.ThaoTac.FormTongHopGioVienTheoMon.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\bin\Debug\BaiTapLon.exe.config
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\bin\Debug\BaiTapLon.exe
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\bin\Debug\BaiTapLon.pdb
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.csproj.ResolveComReference.cache
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Form1.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.Authenticator.FormQuenMatKhau.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.Authenticator.Login.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.Authenticator.Registration.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormBan.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormDiem.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormGiaoVien.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormHocSinh.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormLop.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.ThaoTac.FormTongHopGioVienTheoMon.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.ThaoTac.FormTongHopHocSinhTheoLop.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.TimKiem.FormTimKiemGiaoVien.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.TimKiem.FormTimKiemHocSinh.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Properties.Resources.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.exe
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.pdb
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\bin\Debug\Interop.WMPLib.dll
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\bin\Debug\AxInterop.WMPLib.dll
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\Interop.WMPLib.dll
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\AxInterop.WMPLib.dll
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.Media.FormVideo.resources
+E:\tai lieu\hoc ki 5\lap trinh truc quan\projects\BAITAPLON\obj\Debug\BaiTapLon.Forms.Media.FormNhacIntro.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\bin\Debug\BaiTapLon.exe.config
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\bin\Debug\BaiTapLon.exe
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\bin\Debug\BaiTapLon.pdb
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\bin\Debug\Interop.WMPLib.dll
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\Interop.WMPLib.dll
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.csproj.ResolveComReference.cache
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Form1.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.Authenticator.FormQuenMatKhau.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.Authenticator.Login.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.Authenticator.Registration.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormBan.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormDiem.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormGiaoVien.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormHocSinh.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.FormLop.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.Media.FormNhacIntro.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.Media.FormVideo.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.ThaoTac.FormTongHopGioVienTheoMon.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.ThaoTac.FormTongHopHocSinhTheoLop.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.TimKiem.FormTimKiemGiaoVien.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Forms.TimKiem.FormTimKiemHocSinh.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.exe
+C:\Users\acer\Downloads\BAITAPLON-20240828T071555Z-001\BAITAPLON\obj\Debug\BaiTapLon.pdb
