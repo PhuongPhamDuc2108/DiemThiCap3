@@ -80,7 +80,7 @@ namespace BaiTapLon
             }
             else
             {
-                label1.Text += "Xin chào thày/cô " + userName;
+                label1.Text += "Xin chào giáo viên " + userName;
             }    
         }
 
@@ -111,7 +111,7 @@ namespace BaiTapLon
             }
             else
             {
-                label1.Text = "Xin chào thày/cô " + userName;
+                label1.Text = "Xin chào giáo viên " + userName;
                 họcSinhToolStripMenuItem.Enabled = true;
                 điểmToolStripMenuItem.Enabled = true;
                 lớpToolStripMenuItem.Enabled = true;
