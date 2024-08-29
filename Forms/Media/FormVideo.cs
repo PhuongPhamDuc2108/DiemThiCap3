@@ -49,22 +49,22 @@ namespace BaiTapLon.Forms.Media
         {
             if(comboBox1.SelectedIndex == 0)
             {
-                wmpVideo.URL = "C:\\Users\\HP\\Videos\\NTNU\\Norwegian University of Science and Technology from the air _ NTNU _ Trondheim _ Norway.mp4";
-                System.IO.StreamReader sr = new System.IO.StreamReader("C:\\Users\\HP\\Videos\\NTNU\\khuonvien.txt");
+                wmpVideo.URL = "D:\\LTTQ\\BAITAPLON-20240828T071555Z-001\\BAITAPLON\\video\\gioithieu.mp4";
+                System.IO.StreamReader sr = new System.IO.StreamReader("D:\\LTTQ\\BAITAPLON-20240828T071555Z-001\\BAITAPLON\\text\\khuonvien.txt");
                 richTextBox1.Text = sr.ReadToEnd();
                 sr.Close();
             }
             else if(comboBox1.SelectedIndex == 1)
             {
-                wmpVideo.URL = "C:\\Users\\HP\\Videos\\NTNU\\A Day in my Student Life at NTNU _ Norwegian University of Science and Technology.mp4";
-                System.IO.StreamReader sr = new System.IO.StreamReader("C:\\Users\\HP\\Videos\\NTNU\\aday.txt");
+                wmpVideo.URL = "D:\\LTTQ\\BAITAPLON-20240828T071555Z-001\\BAITAPLON\\video\\aday.mp4";
+                System.IO.StreamReader sr = new System.IO.StreamReader("D:\\LTTQ\\BAITAPLON-20240828T071555Z-001\\BAITAPLON\\text\\aday.txt");
                 richTextBox1.Text = sr.ReadToEnd();
                 sr.Close();
             }
             else if(comboBox1.SelectedIndex == 2)
             {
-                wmpVideo.URL = "C:\\Users\\HP\\Videos\\NTNU\\Faculty of Natural Sciences at NTNU.mp4";
-                System.IO.StreamReader sr = new System.IO.StreamReader("C:\\Users\\HP\\Videos\\NTNU\\lab.txt");
+                wmpVideo.URL = "D:\\LTTQ\\BAITAPLON-20240828T071555Z-001\\BAITAPLON\\video\\khoahoc.mp4";
+                System.IO.StreamReader sr = new System.IO.StreamReader("D:\\LTTQ\\BAITAPLON-20240828T071555Z-001\\BAITAPLON\\text\\lab.txt");
                 richTextBox1.Text = sr.ReadToEnd();
                 sr.Close();
             }
